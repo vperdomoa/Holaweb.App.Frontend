@@ -31,6 +31,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsdWRvc1xsaXN0YXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Saludos/pestaña1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsdWRvc1xwZXN0YcOxYTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Saludos/pestaña2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsdWRvc1xwZXN0YcOxYTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Saludos/pestaña3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsdWRvc1xwZXN0YcOxYTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Saludos/pestaña4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsdWRvc1xwZXN0YcOxYTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
