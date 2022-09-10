@@ -1,0 +1,27 @@
+﻿@page
+@model Holaweb.App.Frontend.Pages.listasModel
+@{
+}
+<html>
+
+<head>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+    <h1> Página creado por el grupo 42 </h1>
+
+    <table class="table">
+        @foreach (var item in Model.mylista)
+        {
+            <tr>
+                <td>
+                    @item
+                </td>
+            </tr>
+        }
+    </table>
+
+</body>
+
+</html>
