@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HolaWebg42\\Holawebg42.App\\Holaweb.App.Frontend\\Holaweb.App.Frontend.csproj": {}
+    "C:\\VivianaFront\\Holaweb.App.Frontend\\Holaweb.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\HolaWebg42\\Holawebg42.App\\Holaweb.App.Frontend\\Holaweb.App.Frontend.csproj": {
+    "C:\\VivianaFront\\Holaweb.App.Frontend\\Holaweb.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HolaWebg42\\Holawebg42.App\\Holaweb.App.Frontend\\Holaweb.App.Frontend.csproj",
+        "projectUniqueName": "C:\\VivianaFront\\Holaweb.App.Frontend\\Holaweb.App.Frontend.csproj",
         "projectName": "Holaweb.App.Frontend",
-        "projectPath": "C:\\HolaWebg42\\Holawebg42.App\\Holaweb.App.Frontend\\Holaweb.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\CT\\.nuget\\packages\\",
-        "outputPath": "C:\\HolaWebg42\\Holawebg42.App\\Holaweb.App.Frontend\\obj\\",
+        "projectPath": "C:\\VivianaFront\\Holaweb.App.Frontend\\Holaweb.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\VivianaFront\\Holaweb.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

@@ -8,41 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Holaweb.App.Frontend
 build_property.RootNamespace = Holaweb.App.Frontend
-build_property.ProjectDir = C:\HolaWebg42\Holawebg42.App\Holaweb.App.Frontend\
+build_property.ProjectDir = c:\VivianaFront\Holaweb.App.Frontend\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\HolaWebg42\Holawebg42.App\Holaweb.App.Frontend
+build_property.MSBuildProjectDirectory = c:\VivianaFront\Holaweb.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Error.cshtml]
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Index.cshtml]
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Privacy.cshtml]
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/ListadoAnimales/listas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFkb0FuaW1hbGVzXGxpc3Rhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/Menuopciones/RegistroAnimal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudW9wY2lvbmVzXFJlZ2lzdHJvQW5pbWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Saludos/listas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsdWRvc1xsaXN0YXMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/_ViewImports.cshtml]
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/_ViewStart.cshtml]
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/HolaWebg42/Holawebg42.App/Holaweb.App.Frontend/Pages/Shared/_Layout.cshtml]
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sp33dz4scg

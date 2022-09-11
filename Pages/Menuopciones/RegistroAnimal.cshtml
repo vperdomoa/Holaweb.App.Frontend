@@ -1,0 +1,61 @@
+﻿@page
+@model Holaweb.App.Frontend.Pages.RegistroAnimalModel
+@{
+}
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+    <h1> Registro Animal</h1>
+    <form>
+    <table class="table">
+        <tr>               
+            <td width="180">
+                <label for="NombreCaballo">Nombre del Animal: </label>
+            </td>
+            <td>
+                <input type="text" name="NombreCaballo"/>
+            </td>
+        </tr>
+        <tr>               
+            <td width="150">
+                <label for="Color">Color del Animal: </label>
+            </td>
+            <td>
+                <input type="text" name="Color"/>
+            </td>
+        </tr>
+        <tr>               
+            <td width="150">
+                <label for="Especie">Especie: </label>
+            </td>
+            <td>
+                <input type="text" name="Especie"/>
+            </td>
+        </tr>
+        <tr>               
+            <td width="150">
+                <label for="Raza">Raza: </label>
+            </td>
+            <td>
+                <input type="text" name="Raza"/>
+            </td>
+        </tr>
+        <tr>
+            <td width="150">
+                <label for="DocIdentidad: ">Doc. Id. Propietario: </label>
+            </td>
+            <td>
+                <input type="text" name="DocIdentidad"/>
+            </td>
+         </tr>
+         <tr>
+            <td><button type="submit">Grabar</button></td>
+            
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

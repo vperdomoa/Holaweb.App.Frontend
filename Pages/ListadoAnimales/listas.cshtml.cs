@@ -6,8 +6,8 @@ namespace Holaweb.App.Frontend.Pages
 
     public class listasModel : PageModel
     {
-        private string[] vectorLista = { "Ingreso caballo", "Ingreso Dueño", "Ingreso Veterinario", "Ingreso Datos del lugar" };
-        public List<string> mylista { get; set; }
+        private string[] vectorLista = { "Caballo Loco", "Plata", "Palomo", "Azabache", "Trueno", "Petronilo", "Ivancho", "Alvarito","Roycillo", "Rocinante", "MafeCabal" };
+        public List<string> mylista { get; set; }=default!;
         public void OnGet()
         {
             mylista = new List<string>();
