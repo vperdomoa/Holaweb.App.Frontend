@@ -1,0 +1,38 @@
+﻿@page
+@model Holaweb.App.Frontend.Pages.ConsulUnitariaAnimModel
+@{
+}
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+    <h1> Consulta Unitaria de Animal</h1>
+    <form>
+    <table class="table">
+        <tr>
+            <td width="150">
+                <label for="DocIdentidad: ">Documento Identidad Propietario</label>
+            </td>
+            <td>
+                <input type="text" name="DocIdentidad"/>
+            </td>
+         </tr>
+                 <tr>               
+            <td width="150">
+                <label for="NombreCaballo">Nombre del Animal: </label>
+            </td>
+            <td>
+                <input type="text" name="NombreCaballo"/>
+            </td>
+        </tr>
+        
+         <tr>
+            <td><button type="submit">Grabar</button></td>
+            
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

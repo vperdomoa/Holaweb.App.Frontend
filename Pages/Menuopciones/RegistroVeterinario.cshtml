@@ -1,0 +1,70 @@
+﻿@page
+@model Holaweb.App.Frontend.Pages.RegistroVeterinarioModel
+@{
+}
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+    <h1> Registro Veterinario</h1>
+    <form>
+    <table class="table">
+        <tr>
+            <td width="150">
+                <label for="DocIdentidad: ">Documento Identidad</label>
+            </td>
+            <td>
+                <input type="text" name="DocIdentidad"/>
+            </td>
+         </tr>
+        <tr>               
+            <td width="150">
+                <label for="Nombre">Nombres: </label>
+            </td>
+            <td>
+                <input type="text" name="Nombre"/>
+            </td>
+        </tr>
+        <tr>               
+            <td width="150">
+                <label for="Apellidos">Apellidos: </label>
+            </td>
+            <td>
+                <input type="text" name="Apellidos"/>
+            </td>
+        </tr>
+        <tr>               
+            <td width="150">
+                <label for="Direccion">Direccion: </label>
+            </td>
+            <td>
+                <input type="text" name="Direccion"/>
+            </td>
+        </tr>
+        <tr>               
+            <td width="150">
+                <label for="Telefono">Telefono: </label>
+            </td>
+            <td>
+                <input type="text" name="Telefono"/>
+            </td>
+        </tr>
+        <tr>               
+            <td width="150">
+                <label for="NumTarjetaProfesional">Número Tarjeta Profesional </label>
+            </td>
+            <td>
+                <input type="text" name="NumTarjetaProfesional"/>
+            </td>
+        </tr>
+        
+         <tr>
+            <td><button type="submit">Grabar</button></td>
+            
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

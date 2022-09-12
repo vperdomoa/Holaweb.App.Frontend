@@ -23,12 +23,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/ListadoAnimales/ConsulUnitariaAnim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFkb0FuaW1hbGVzXENvbnN1bFVuaXRhcmlhQW5pbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/VivianaFront/Holaweb.App.Frontend/Pages/ListadoAnimales/listas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFkb0FuaW1hbGVzXGxpc3Rhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/VivianaFront/Holaweb.App.Frontend/Pages/Menuopciones/RegistroAnimal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudW9wY2lvbmVzXFJlZ2lzdHJvQW5pbWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/Menuopciones/RegistroPropietario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudW9wY2lvbmVzXFJlZ2lzdHJvUHJvcGlldGFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/VivianaFront/Holaweb.App.Frontend/Pages/Menuopciones/RegistroVeterinario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudW9wY2lvbmVzXFJlZ2lzdHJvVmV0ZXJpbmFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/VivianaFront/Holaweb.App.Frontend/Pages/Privacy.cshtml]
